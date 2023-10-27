@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">firstlab</string>
+    <string name="work1">Робота 1</string>
+    <string name="work2">Робота 2</string>
+    <string name="work1Title">Оберіть число</string>
+    <string name="work1Yes">Так</string>
+    <string name="work1No">Ні</string>
+    <string name="work2_1Title">Вікно 1</string>
+    <string name="work2_2Title">Вікно 2</string>
+    <string name="work2_1Next">Далі ></string>
+    <string name="work2_1Discard">Відміна</string>
+    <string name="work2_2Yes">Так</string>
+    <string name="work2_2Discard">Відміна</string>
+    <string name="work2_2Prev">&lt; Назад</string>
+    <string name="displayedNum">0</string>
+</resources>
