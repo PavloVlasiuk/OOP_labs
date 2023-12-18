@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">secondLab</string>
+    <string name="shapes_menu">Форми</string>
+    <string name="point_title">Крапка</string>
+    <string name="line_title">Лінія</string>
+    <string name="rect_title">Прямокутник</string>
+    <string name="ellipse_title">Еліпс</string>
+</resources>
