@@ -17,9 +17,6 @@ class MainActivity : AppCompatActivity() {
 
         actionBar = supportActionBar!!
         canvasView = findViewById(R.id.canvas_view)
-
-        actionBar.title = getString(R.string.line_title)
-        canvasView.setLineEditor()
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
