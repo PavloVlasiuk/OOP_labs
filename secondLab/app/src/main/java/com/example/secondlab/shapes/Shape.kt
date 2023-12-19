@@ -31,17 +31,17 @@ abstract class Shape {
         endY = y
     }
 
-    fun setStrokeStyle() {
+    protected fun setStrokeStyle() {
         paint.style = Paint.Style.STROKE
         paint.color = Color.BLACK
     }
 
-    fun setFillStyle() {
+    protected fun setFillStyle() {
         paint.style = Paint.Style.FILL
         paint.color = Color.WHITE
     }
 
-    fun setTrailStyle() {
+    protected fun setTrailStyle() {
         paint.style = Paint.Style.STROKE
         paint.color = Color.RED
     }
