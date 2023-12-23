@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fourthLab</string>
+    <string name="shapes_menu">Об\'єкти</string>
+    <string name="point_title">Крапка</string>
+    <string name="line_title">Лінія</string>
+    <string name="rect_title">Прямокутник</string>
+    <string name="ellipse_title">Еліпс</string>
+    <string name="cube_title">Куб</string>
+    <string name="line_with_circles_title">Лінія з кругами</string>
+</resources>
