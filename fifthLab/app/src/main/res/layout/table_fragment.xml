@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    tools:context=".MyTable">
+
+
+    <ScrollView
+        android:id="@+id/table_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/yellow_grey"
+        android:visibility="visible">
+
+        <TableLayout
+            android:id="@+id/table_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="*">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/smoke_green">
+
+                <TextView
+                    android:layout_margin="1dp"
+                    android:background="@color/smoke_green"
+                    android:gravity="center"
+                    android:text="@string/table_name"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_margin="1dp"
+                    android:background="@color/smoke_green"
+                    android:gravity="center"
+                    android:text="@string/table_x1"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_margin="1dp"
+                    android:background="@color/smoke_green"
+                    android:gravity="center"
+                    android:text="@string/table_y1"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_margin="1dp"
+                    android:background="@color/smoke_green"
+                    android:gravity="center"
+                    android:text="@string/table_x2"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_margin="1dp"
+                    android:background="@color/smoke_green"
+                    android:gravity="center"
+                    android:text="@string/table_y2"
+                    android:textStyle="bold" />
+            </TableRow>
+        </TableLayout>
+
+    </ScrollView>
+</FrameLayout>

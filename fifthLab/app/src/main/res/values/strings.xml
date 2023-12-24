@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">fifthLab</string>
+    <string name="shapes_menu">Об\'єкти</string>
+    <string name="point_title">Крапка</string>
+    <string name="line_title">Лінія</string>
+    <string name="rect_title">Прямокутник</string>
+    <string name="ellipse_title">Еліпс</string>
+    <string name="cube_title">Куб</string>
+    <string name="line_with_circles_title">Лінія з кругами</string>
+    <string name="table_name">Назва</string>
+    <string name="table_x1">x1</string>
+    <string name="table_y1">y1</string>
+    <string name="table_x2">x2</string>
+    <string name="table_y2">y2</string>
+    <string name="table_title">Таблиця</string>
+    <string name="save_file_title">Зберегти</string>
+</resources>
