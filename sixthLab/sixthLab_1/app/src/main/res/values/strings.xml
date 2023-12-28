@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="n_title">n</string>
+    <string name="min_title">min</string>
+    <string name="max_title">max</string>
+    <string name="continue_btn">Далі</string>
+</resources>
